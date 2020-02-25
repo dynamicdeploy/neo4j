@@ -16,6 +16,9 @@ tar -xf neo4j-community-4.0.0-unix.tar.gz
 
 ./bin/neo4j console|start
 
+Install as a service on linux
+http://boopathi.me/blog/install-configure-start-neo4j-linux-service/
+
 Enable Remote HTTP Access
 https://neo4j.com/developer/kb/how-do-i-enable-remote-https-access-with-neo4j-30x/
 
