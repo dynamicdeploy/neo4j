@@ -30,14 +30,52 @@ neo4j ports
 Examples
 https://neo4j.com/graphgists/
 
+https://neo4j.com/developer/example-data/ 
+
+https://medium.com/neo4j
+
+https://medium.com/@mesirii
+
+
 Import Data
 https://neo4j.com/developer/data-import/
 
 GitHub Examples
+
+https://github.com/johnymontana/neo4j-datasets
+
 https://github.com/mastoj/PolyglotHeaven
+
+https://github.com/nicolewhite/neo4j-flights
+
+https://neo4j.com/blog/import-10m-stack-overflow-questions/
 
 https://github.com/PauliusKu/Neo4J_Flights
 
 https://github.com/willhl/GraphData-MEP
 
 https://github.com/pablo-diaz/neo4j-tests
+
+https://www.arangodb.com/2018/02/nosql-performance-benchmark-2018-mongodb-postgresql-orientdb-neo4j-arangodb/
+
+
+
+.NET
+https://github.com/neo4j-examples/movies-dotnet-neo4jclient
+
+https://github.com/Apress/practical-neo4j
+
+
+
+Spatial
+https://medium.com/neo4j/whats-new-in-neo4j-spatial-features-586d69cda8d0
+
+https://neo4j.com/blog/geospatial-indexing-us-congress-neo4j/
+
+https://maxdemarzi.com/2018/03/21/neo4j-geospatial-queries/ 
+
+https://neo4j.com/blog/neo4j-spatial-part1-finding-things-close-to-other-things/ 
+
+Visualization
+
+https://medium.com/neo4j/hands-on-graph-data-visualization-bd1f055a492d
